@@ -1,0 +1,2 @@
+1st input: 10500
+2nd input: 500
