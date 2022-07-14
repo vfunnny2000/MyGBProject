@@ -1,2 +1,2 @@
 my 1st input: 10500
-my 2nd input: 700
+my 2nd input: 500
